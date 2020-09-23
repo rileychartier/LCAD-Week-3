@@ -15,7 +15,7 @@ img{
 /* Home Styles
 ----------------------------------*/
 .home{
-    background: linear-gradient(180deg, #00C873 100%) no-repeat;
+    background: linear-gradient(180deg, #00C5FF 0%, #00C873 100%) no-repeat;
     color: #FFF;
     height: 100vh;
     margin: 0;
